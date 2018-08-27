@@ -1,0 +1,11 @@
+c:\users\gercules\documents\visual studio 2017\Projects\WF_Parser\WF_Parser\bin\Debug\WF_Parser.exe.config
+c:\users\gercules\documents\visual studio 2017\Projects\WF_Parser\WF_Parser\bin\Debug\WF_Parser.exe
+c:\users\gercules\documents\visual studio 2017\Projects\WF_Parser\WF_Parser\bin\Debug\WF_Parser.pdb
+c:\users\gercules\documents\visual studio 2017\Projects\WF_Parser\WF_Parser\bin\Debug\AngleSharp.dll
+c:\users\gercules\documents\visual studio 2017\Projects\WF_Parser\WF_Parser\bin\Debug\AngleSharp.xml
+c:\users\gercules\documents\visual studio 2017\Projects\WF_Parser\WF_Parser\obj\Debug\WF_Parser.csprojResolveAssemblyReference.cache
+c:\users\gercules\documents\visual studio 2017\Projects\WF_Parser\WF_Parser\obj\Debug\WF_Parser.Form1.resources
+c:\users\gercules\documents\visual studio 2017\Projects\WF_Parser\WF_Parser\obj\Debug\WF_Parser.Properties.Resources.resources
+c:\users\gercules\documents\visual studio 2017\Projects\WF_Parser\WF_Parser\obj\Debug\WF_Parser.csproj.GenerateResource.Cache
+c:\users\gercules\documents\visual studio 2017\Projects\WF_Parser\WF_Parser\obj\Debug\WF_Parser.exe
+c:\users\gercules\documents\visual studio 2017\Projects\WF_Parser\WF_Parser\obj\Debug\WF_Parser.pdb

@@ -1,0 +1,80 @@
+KDD 2018, день четвертый, выступает нобелевский лауреат
+https://habr.com/company/mailru/blog/420997/
+Еще шесть мифов о блокчейне, где же он все-таки будет применяться
+https://habr.com/company/kaspersky/blog/419867/
+Как я запустил свой первый SaaS-проект работая по найму целый день
+https://habr.com/post/421051/
+Проектирование экранов приложения: от планирования до дизайн-макета
+https://habr.com/company/skillbox/blog/421049/
+Помогаем выплыть: как ввести новичков в сложный проект с помощью квеста
+https://habr.com/company/hflabs/blog/420967/
+Архитектуру искусственного интеллекта нужно менять
+https://habr.com/post/420943/
+Митап о написании приложений на Lua с помощью движка Corona
+https://habr.com/company/coronalabs/blog/421043/
+Мониторинг ИБП рабочих станций в Windows с Network UPS Tools
+https://habr.com/post/421039/
+Как запустить Istio, используя Kubernetes в production. Часть 1
+https://habr.com/company/avito/blog/419319/
+Новые 3D-звёзды соцсетей, и почему они для нас опасны
+https://habr.com/company/pochtoy/blog/421035/
+Умная книга − куда приведет эволюция цифровой печати
+https://habr.com/company/canon/blog/421033/
+Пишем Java-френдли Kotlin-код
+https://habr.com/company/jugru/blog/417951/
+7 действенных управляемых файрволов для защиты облачной инфраструктуры
+https://habr.com/company/poiskvps/blog/421025/
+Random.org — история длиной в 20 лет
+https://habr.com/company/ruvds/blog/421031/
+Как увеличить пропускную способность магазинов и избавиться от очередей
+https://habr.com/company/pilot/blog/421029/
+Международный стандарт обмена данными SDMX (Statistical Data and Metadata eXchange)
+https://habr.com/post/421027/
+Корпоративная шизофрения
+https://habr.com/post/421023/
+Пилим свою службу Windows – руководство для «не настоящих программистов»
+https://habr.com/company/pc-administrator/blog/421019/
+Из закрытой касты в Servant Leadership: эволюция тимлида в Booking.com
+https://habr.com/company/oleg-bunin/blog/420067/
+Как делают аудит кода лидеры рынка +опрос
+https://habr.com/post/421017/
+Почему персонажи видеоигр почти никогда не раздеваются
+https://habr.com/post/420647/
+Как создается звук для другой реальности
+https://habr.com/company/microsoft/blog/418663/
+Исследование устойчивости национальных сегментов сети Интернет за 2018 год
+https://habr.com/company/qrator/blog/421015/
+Аппарат для выдачи печенья «Кукинатор 3000»
+https://habr.com/company/wirenboard/blog/420831/
+Реакция на аварию: растянутый кластер против DR-площадки
+https://habr.com/company/technoserv/blog/420971/
+Тяжёлая правда о тяжести обучения
+https://habr.com/post/420715/
+Moscow Data Science Major: анонс и регистрация
+https://habr.com/company/mailru/blog/420711/
+25 и 26 августа: онлайн конференция по операционному управлению
+https://habr.com/company/stratoplan/blog/421009/
+Магнитофон — инструмент для записи автотестов
+https://habr.com/company/ispsystem/blog/421007/
+Бизнес-аналитика: как отказаться от Excel, не отказываясь от него
+https://habr.com/company/jetinfosystems/blog/420963/
+Подбираем пароль к индийскому ИНН за две секунды, или зачем брутфорсу математика
+https://habr.com/post/420995/
+DJI Ronin S — первый старт и основные функции
+https://habr.com/company/coptertime/blog/419747/
+Журнал «Новости Космонавтики» прекращает своё существование
+https://habr.com/post/420969/
+5 простых шагов к созданию сервера для тестирования android REST-запросов
+https://habr.com/post/420993/
+Гонка с преследованием
+https://habr.com/company/vivaldi/blog/420991/
+Обучение с подкреплением в среде PyBullet
+https://habr.com/post/420897/
+Надежное хранилище с DRBD9 и Proxmox (Часть 2: iSCSI+LVM)
+https://habr.com/post/417597/
+Исследователи утверждают, что спрятаться от слежки Google практически невозможно
+https://habr.com/post/420983/
+«Могу рассказать про общую боль всех iOS-разработчиков» — 10 вопросов программисту, выпуск 2
+https://habr.com/post/420981/
+Хитрости QComboBox + QTreeView
+https://habr.com/post/420977/
